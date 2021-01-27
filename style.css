@@ -1,5 +1,5 @@
 body, html {
-    /* font-family: Calibri, sans-serif !important; */
+    font-family: Calibri, sans-serif !important;
 }
 .card-header-gr {
     background: linear-gradient(to right, #323DA8,#3F96E0);
@@ -27,13 +27,6 @@ body, html {
     right: 70px;
     outline: none !important;
 }
-/* .testimonial-picture
-{
-    border: 8px solid transparent;
-    border-radius: 50%;
-    border-image: linear-gradient(to right, #323DA8,#3F96E0);
-    border-image-slice: 1;
-} */
 .testimonial-picture {
     background: linear-gradient(to bottom, #3acfd5 0%, #3a4ed5 100%);
     border-radius: 100%;
@@ -74,7 +67,7 @@ body, html {
     color: #ffffff !important;
 }
 .home-slider .slick-next,.home-slider .slick-prev {
-    top: 44% !important;
+    top: 48% !important;
     z-index: 1;
 }
 .home-slider .slick-prev {
