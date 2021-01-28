@@ -46,6 +46,14 @@ body, html {
     position: absolute;
     z-index:-1;
 }
+@media screen and (max-width:1024px) {
+    .testimonial-picture{
+        width: 11rem !important;
+        height: 11rem !important;
+        margin: 0px auto;
+        padding: 5px;
+    }
+}
 .blog-link {
     color: #3a4ed5;
 }
